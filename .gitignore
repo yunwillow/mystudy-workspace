@@ -1,2 +1,5 @@
 *.o
 matrix.exe
+*.gch
+*.layout
+*.dev
